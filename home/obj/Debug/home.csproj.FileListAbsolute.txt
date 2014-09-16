@@ -1,0 +1,18 @@
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\bin\Debug\home.exe.config
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\bin\Debug\home.exe
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\bin\Debug\home.pdb
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.csprojResolveAssemblyReference.cache
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.Properties.Resources.resources
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.csproj.GenerateResource.Cache
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.exe
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.pdb
+c:\users\bismillah-pc\documents\visual studio 2013\Projects\home\home\obj\Debug\home.Form1.resources
+D:\Dot.Net\home\home\bin\Debug\home.exe.config
+D:\Dot.Net\home\home\obj\Debug\home.exe
+D:\Dot.Net\home\home\obj\Debug\home.pdb
+D:\Dot.Net\home\home\bin\Debug\home.exe
+D:\Dot.Net\home\home\bin\Debug\home.pdb
+D:\Dot.Net\home\home\obj\Debug\home.csprojResolveAssemblyReference.cache
+D:\Dot.Net\home\home\obj\Debug\home.Form1.resources
+D:\Dot.Net\home\home\obj\Debug\home.Properties.Resources.resources
+D:\Dot.Net\home\home\obj\Debug\home.csproj.GenerateResource.Cache
